@@ -6,6 +6,30 @@ You must have seen a facial recognition login system in apps or websites. Here, 
 <img width="684" alt="image" src="https://user-images.githubusercontent.com/93934156/170876189-fc41450e-0a87-4bcd-913b-5b0064fac621.png">
 <img width="684" alt="image" src="https://user-images.githubusercontent.com/93934156/170876367-89f265a1-b287-4ba8-8889-733163af4f57.png">
 
+## Requirements
+cmake==3.21.1
+
+numpy==1.21.4
+
+dlib==19.22.99
+
+imutils==0.5.4
+
+opencv-contrib-python==4.5.3.56
+
+tensorflow==2.5.0
+
+scikit-learn==0.24.2
+
+face-recognition==1.3.0
+
+Flask==2.0.1
+
+Flask-SQLAlchemy==2.5.1
+
+SQLAlchemy==1.4.22
+
+
 
 ## Full Workflow
 1.	Create a folder for a sinlge person and name after the person's name in face_recognition/dataset .
